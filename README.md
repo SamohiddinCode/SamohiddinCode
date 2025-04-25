@@ -35,7 +35,7 @@ Constantly exploring new technologies and refining my skills through hands-on pr
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/SamohiddinCode/LeyaShip.com">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=LeyaShip.comp&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=LeyaShip.com&theme=radical" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -63,20 +63,25 @@ Constantly exploring new technologies and refining my skills through hands-on pr
 
 ### 🏢 Experience
 
-<table>
-  <tr>
-    <td align="center" width="50%">
+<table align="center" width="100%">
+  <tr width="100%">
+    <td align="center" width="33.33%">
+      <img src="https://static.tuit.uz/uploads/1/W73eM8T-hn5cLRoa_rQWKshn3eUutXvm.png" alt="TUIT" width="120"/>
       <h3>🎓 University Name</h3>
       <p>Bachelor of Computer Science</p>
       <p>2022 – Present</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33.33%">
+      <img src="https://timeweb.com/ru/community/article/63/63d6dde8e4a9392641d7c64274c960b1.jpg" alt="Kwork" width="120"/>
+      <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4092369/cover_image/regular_1708x683/Toptal_Cover-61143082d4c9b4d688058e3ff08ecb0c.png" width="120"/>
+      <img src="https://cis.visa.com/content/dam/VCOM/regional/cemea/generic-cemea/run-your-business/small-business-tools/small-business-hub/partners/upwork-800x450.jpg" alt="Upwork" width="120"/>
+      <h3>🎓 University Name</h3>
       <h3>💼 Internship / Freelance</h3>
       <p>Frontend Developer Intern</p>
       <p>React | UI/UX | Git</p>
     </td>
-      <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/School_21_logo.png" alt="School 21" width="120" />
+      <td align="center" width="33.33%">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoxTSVM4SBpcWusYVasuSyOpgsVOvGGEk5Q&s" alt="School 21" width="120"/>
       <h3>School 21</h3>
       <p>21st Century Software Engineering School</p>
       <p><strong>Student Developer</strong></p>
