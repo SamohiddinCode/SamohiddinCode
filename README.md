@@ -39,7 +39,7 @@ Constantly exploring new technologies and refining my skills through hands-on pr
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/SamohiddinCode/another-cool-repo](https://github.com/SamohiddinCode/chat">
+      <a href="https://github.com/SamohiddinCode/chat">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=another-cool-repo&theme=radical" />
       </a>
     </td>
