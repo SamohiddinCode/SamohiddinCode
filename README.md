@@ -93,10 +93,10 @@ Constantly exploring new technologies and refining my skills through hands-on pr
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/samohiddin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/tolibov_tm">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:tolibov3366@gmail.com">
@@ -107,7 +107,8 @@ Constantly exploring new technologies and refining my skills through hands-on pr
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/assets/pixel-scene.png" width="90%" />
+  <img src="https://i.pinimg.com/1200x/8d/dd/ab/8dddaba88d73888a5bea66e0f85bab20.jpg" width="50%" />
+  <img src="https://i.pinimg.com/1200x/00/99/71/0099710423e45a0367a1f641457fd8da.jpg" width="50%" />
 </p>
 
 <p align="center">
