@@ -35,7 +35,7 @@ Constantly exploring new technologies and refining my skills through hands-on pr
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Wh0mever/LeyaShip.com">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=LeyaShipt&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=Leya-Ship&theme=radical" />
       </a>
     </td>
     <td align="center" width="50%">
