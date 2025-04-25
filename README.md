@@ -34,8 +34,8 @@ Constantly exploring new technologies and refining my skills through hands-on pr
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/SamohiddinCode/Leya-Ship">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=Leya-Ship&theme=radical" />
+      <a href="https://github.com/SamohiddinCode/LeyaShip.com">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=LeyaShip.comp&theme=radical" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -75,6 +75,13 @@ Constantly exploring new technologies and refining my skills through hands-on pr
       <p>Frontend Developer Intern</p>
       <p>React | UI/UX | Git</p>
     </td>
+      <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/School_21_logo.png" alt="School 21" width="120" />
+      <h3>School 21</h3>
+      <p>21st Century Software Engineering School</p>
+      <p><strong>Student Developer</strong></p>
+      <p>📍 Moscow | 🗓️ 2023 – Present</p>
+    </td
   </tr>
 </table>
 
