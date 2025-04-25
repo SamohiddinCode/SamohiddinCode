@@ -107,8 +107,8 @@ Constantly exploring new technologies and refining my skills through hands-on pr
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/8d/dd/ab/8dddaba88d73888a5bea66e0f85bab20.jpg" width="50%" />
-  <img src="https://i.pinimg.com/1200x/00/99/71/0099710423e45a0367a1f641457fd8da.jpg" width="50%" />
+  <img src="https://i.pinimg.com/1200x/8d/dd/ab/8dddaba88d73888a5bea66e0f85bab20.jpg" width="45%" />
+  <img src="https://i.pinimg.com/1200x/00/99/71/0099710423e45a0367a1f641457fd8da.jpg" width="45%" />
 </p>
 
 <p align="center">
