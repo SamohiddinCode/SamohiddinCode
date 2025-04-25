@@ -34,12 +34,12 @@ Constantly exploring new technologies and refining my skills through hands-on pr
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://wh0mever.github.io/LeyaShip.com/">
+      <a href="https://github.com/Wh0mever/LeyaShip.com.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=your-awesome-project&theme=radical" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/SamohiddinCode/chat">
+      <a href="https://github.com/SamohiddinCode/chat.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamohiddinCode&repo=another-cool-repo&theme=radical" />
       </a>
     </td>
