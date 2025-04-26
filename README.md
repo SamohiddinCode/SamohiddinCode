@@ -67,15 +67,14 @@ Constantly exploring new technologies and refining my skills through hands-on pr
   <tr width="100%">
     <td align="center" width="33.33%">
       <img src="https://static.tuit.uz/uploads/1/W73eM8T-hn5cLRoa_rQWKshn3eUutXvm.png" alt="TUIT" width="120"/>
-      <h3>🎓 University Name</h3>
-      <p>Bachelor of Computer Science</p>
+      <h3>🎓 Tashkent University of Information Tecnologies</h3>
+      <p>Bachelor of Cyber Security</p>
       <p>2022 – Present</p>
     </td>
     <td align="center" width="33.33%">
       <img src="https://timeweb.com/ru/community/article/63/63d6dde8e4a9392641d7c64274c960b1.jpg" alt="Kwork" width="120"/>
       <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4092369/cover_image/regular_1708x683/Toptal_Cover-61143082d4c9b4d688058e3ff08ecb0c.png" width="120"/>
       <img src="https://cis.visa.com/content/dam/VCOM/regional/cemea/generic-cemea/run-your-business/small-business-tools/small-business-hub/partners/upwork-800x450.jpg" alt="Upwork" width="120"/>
-      <h3>🎓 University Name</h3>
       <h3>💼 Internship / Freelance</h3>
       <p>Frontend Developer Intern</p>
       <p>React | UI/UX | Git</p>
