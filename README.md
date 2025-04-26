@@ -69,7 +69,7 @@ Constantly exploring new technologies and refining my skills through hands-on pr
       <img src="https://static.tuit.uz/uploads/1/W73eM8T-hn5cLRoa_rQWKshn3eUutXvm.png" alt="TUIT" width="120"/>
       <h3>🎓 Tashkent University of Information Tecnologies</h3>
       <p>Bachelor of Cyber Security</p>
-      <p>2022 – Present</p>
+      <p>2021 – Present</p>
     </td>
     <td align="center" width="33.33%">
       <img src="https://timeweb.com/ru/community/article/63/63d6dde8e4a9392641d7c64274c960b1.jpg" alt="Kwork" width="120"/>
